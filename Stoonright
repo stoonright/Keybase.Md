@@ -1,0 +1,67 @@
+# ### Keybase proof
+
+I hereby claim:
+
+  * I am stoonright on github.
+  * I am stoonright (https://keybase.io/stoonright) on keybase.
+  * I have a public key ASA82HIMX-djA4sZBr4WebYliYz-xghDDCc70s6KM2gGeAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203cd8720c5fe763038b1906be1679b625898cfec608430c273bd2ce8a336806780a",
+      "host": "keybase.io",
+      "kid": "01203cd8720c5fe763038b1906be1679b625898cfec608430c273bd2ce8a336806780a",
+      "uid": "b7a1d0ffae776d0237fafaff9938c819",
+      "username": "stoonright"
+    },
+    "merkle_root": {
+      "ctime": 1568228408,
+      "hash": "2fbdeb7410d2df5800a9fd8c7723fa66ffa6e5c884215cd685e534fe554967491704c1c377cf94caa4a55736db4d1ac535f41c8d0d3e5a224b9f370440ff563b",
+      "hash_meta": "af1b81ff418867c9beda3a0a19a509860b837449e21c17ceaee11c6352ef8923",
+      "seqno": 6791979
+    },
+    "service": {
+      "entropy": "x33gRiwjxhtF3oY5uhAQTLDU",
+      "name": "github",
+      "username": "stoonright"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568228418,
+  "expire_in": 504576000,
+  "prev": "bcfd334753f6ebc72695d480599ab4e023370d7018499a014173f337332367c6",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASA82HIMX-djA4sZBr4WebYliYz-xghDDCc70s6KM2gGeAo](https://keybase.io/stoonright), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPNhyDF/nYwOLGQa+Fnm2JYmM/sYIQwwnO9LOijNoBngKp3BheWxvYWTESpcCBcQgvP0zR1P268cmldSAWZq04CM3DXAYSZoBQXPzNzMjZ8bEIKL7u7vlNcSFmqRDLyJRbuDtfS5jaolVC1dhpxr+lXLKAgHCo3NpZ8RAa1ppgjAN4NQoMZjcw5BXaSovDPMowifuN3MRRNw4+j9F6b6svSMhJolhiI9egWLiJl9fM6EqgDXzypTDtMt9D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGHTfvaxAWOik7EjhqyjfA3Z/wXX2xiWoBxB2TuIZawFo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/stoonright
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id stoonright
+```.Md
